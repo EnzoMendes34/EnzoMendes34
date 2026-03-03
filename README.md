@@ -15,10 +15,8 @@
 ### 🙋‍♂️ Sobre mim
 
 - 🎯 Focado em me tornar **Dev Java Back-end**
-- 📚 Estudando **Spring Boot, API RESTful e boas práticas de arquitetura**
+- 📚 Estudando **Spring Boot, API RESTful boas práticas de arquitetura e Microsserviços**
 - 💻 Também trabalho com **React.js e Next.js** no front-end
-- 🌱 Sempre aprendendo e construindo projetos reais
-- 🔍 Atualmente estudando: **Spring, Clean Architecture, boas práticas de API REST e Microsserviços**
 
 ---
 
